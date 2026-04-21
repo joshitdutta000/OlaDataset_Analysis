@@ -1,0 +1,8 @@
+vehicle_type,avg_ctat,avg_vtat,avg_driver_rating,avg_customer_rating,total_successful,avg_fare
+Auto,15.46,10.44,4.01,4.01,4777,1017.56
+Bike,15.58,10.44,4.0,4.0,4840,1021.07
+Mini,15.49,10.39,4.0,3.99,4712,1024.4
+Prime Plus,15.52,10.45,4.0,4.0,4790,1022.0
+Prime SUV,15.54,10.53,4.0,4.01,4758,1024.85
+Prime Sedan,15.63,10.65,4.01,4.0,4778,1026.64
+eBike,15.74,10.49,4.0,4.0,4748,1026.95

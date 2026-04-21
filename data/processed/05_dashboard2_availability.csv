@@ -1,0 +1,7 @@
+time_of_day,total,successful,customer_cancelled,completion_rate,customer_cancel_rate
+Afternoon,8418,5640,661,67.0,7.85
+Early Morning,8186,5524,600,67.48,7.33
+Evening,8376,5613,633,67.01,7.56
+Late Night,10524,7057,789,67.06,7.5
+Morning,6165,4096,496,66.44,8.05
+Night,8197,5473,603,66.77,7.36

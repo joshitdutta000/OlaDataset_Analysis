@@ -1,0 +1,2 @@
+total_ride_requests,ride_completion_rate_pct,overall_cancellation_rate_pct,driver_cancellation_rate_pct,customer_cancellation_rate_pct,total_revenue_inr,avg_fare_inr,avg_ride_distance_km,avg_vtat_min,avg_ctat_min,avg_driver_rating,avg_customer_rating,revenue_lost_inr,revenue_recovery_15pct_inr,fleet_efficiency_pct
+49866,66.99,26.8,19.22,7.58,34182716.34,1023.34,25.45,10.48,15.57,4.0,4.0,16847246.42,2527086.96,66.99

@@ -1,0 +1,5 @@
+booking_status,count,pct
+Success,33403,66.99
+Cancelled by Driver,9582,19.22
+Cancelled by Customer,3782,7.58
+Incomplete,3099,6.21
